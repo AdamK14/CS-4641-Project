@@ -6,6 +6,7 @@
 # Datasets
 processed_data.csv
 raw data/
+.venv/
 
 # User-specific files
 *.rsuser
