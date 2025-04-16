@@ -1,8 +1,8 @@
-# 📈 Options Pricing Using Deep Learning
+# Options Pricing Using Deep Learning (CS 4641 Class Project)
 
 ---
 
-## 👥 The Team
+## Us
 
 <table>
   <tr>
@@ -48,8 +48,9 @@
 
 ---
 
-## 🧠 Project Summary
+## Project Summary
 
+- **Problem Statement**: Understand and implement the research conducted by [Stanford's Alexander Ke and Andrew Yang](https://github.com/ycm/cs230-proj)
 - **Data Source**: AAPL options data (2016–2023), combining multiple CSV files and preprocessed for model input.
 - **Models Used**:
   - **LSTM**: Captures temporal patterns in time-series data.
@@ -59,7 +60,7 @@
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 - LSTM showed a slight performance edge due to its ability to model sequential data.
 - MLP models still performed competitively, especially with well-tuned architectures.
@@ -67,7 +68,7 @@
 
 ---
 
-## 📁 File Overview
+## File Overview
 
 - `lstm.ipynb` — LSTM model implementation and training
 - `mlp1_calls.ipynb`, `mlp1_puts.ipynb` — MLP1 model for call and put options
