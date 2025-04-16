@@ -11,7 +11,7 @@
         <img src="https://github.com/AdamK14.png" width="100px;" alt="AdamK14"/><br />
         <sub><b>Adam K.</b></sub>
       </a><br />
-      💻 Lead Developer
+      💻 Developer
     </td>
     <td align="center">
       <a href="https://github.com/bye37gatech">
