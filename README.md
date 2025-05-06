@@ -2,7 +2,7 @@
 
 ---
 
-## Us
+## The Team!
 
 <table>
   <tr>
@@ -25,26 +25,26 @@
         <img src="https://github.com/Jessica2268.png" width="100px;" alt="Jessica2268"/><br />
         <sub><b>Jessica L.</b></sub>
       </a><br />
-      📝 Presentation & Report
+      📝 Review
     </td>
     <td align="center">
       <a href="https://github.com/andyvo2004">
         <img src="https://github.com/andyvo2004.png" width="100px;" alt="andyvo2004"/><br />
         <sub><b>Andy V.</b></sub>
       </a><br />
-      📝 Presentation & Report
+      📝 Review
     </td>
     <td align="center">
       <a href="https://github.com/dyu27">
         <img src="https://github.com/dyu27.png" width="100px;" alt="dyu27"/><br />
         <sub><b>Daniel Y.</b></sub>
       </a><br />
-      📝 Presentation & Report
+      📝 Review
     </td>
   </tr>
 </table>
 
-> Adam and Brandon led the development of the code and model implementations. Jessica, Andy, and Daniel contributed significantly to the final presentation and research paper.
+> Adam and Brandon led the development of the code, model implementations, and the presentation and paper. Jessica, Andy, and Daniel reviewed the final presentation and research paper.
 
 ---
 
